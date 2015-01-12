@@ -1,2 +1,4 @@
 # pruebagit
-repositorio para probar la terminal en mac
+repositorio para probar la terminal en 
+
+bueno para poder utilizar esto tuve que hacer una smklink en la consola de mac y al bash de la terminal
